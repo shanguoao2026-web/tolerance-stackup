@@ -1,0 +1,12 @@
+{
+  "name": "tolerance-stackup",
+  "version": "1.0.0",
+  "description": "One-dimensional worst-case and RSS tolerance stack-up CLI",
+  "type": "module",
+  "bin": { "tolerance-stackup": "dist/cli.js" },
+  "exports": "./dist/index.js",
+  "scripts": { "build": "tsc", "test": "npm run build && node --test --test-isolation=none" },
+  "engines": { "node": ">=22.8" },
+  "license": "MIT",
+  "devDependencies": { "@types/node": "^22.0.0", "typescript": "^5.6.0" }
+}

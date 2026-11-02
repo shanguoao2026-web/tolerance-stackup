@@ -1,0 +1,4 @@
+name,nominal,plusTol,minusTol,direction
+Housing,50,0.1,0.1,1
+Spacer,20,0.05,0.05,-1
+Insert,29,0.05,0.05,-1

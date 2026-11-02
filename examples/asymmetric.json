@@ -1,0 +1,5 @@
+[
+  { "name": "Housing", "nominal": 50, "plusTol": 0.2, "minusTol": 0.1, "direction": 1 },
+  { "name": "Spacer", "nominal": 20, "plusTol": 0.08, "minusTol": 0.02, "direction": -1 },
+  { "name": "Insert", "nominal": 29, "plusTol": 0.05, "minusTol": 0.05, "direction": -1 }
+]
